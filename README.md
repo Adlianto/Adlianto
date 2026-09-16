@@ -2,28 +2,28 @@ About Me:
 Just a full-stack developer who loves building clean, interactive web apps and spends the rest of the time sleeping. Most of the hard bugs actually get solved while I'm asleep<br><br>
 <p align="left">
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+    <img src="https://img.shields.io/badge/Google_Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/NVIDIA_Community-Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Community" />
+    <img src="https://img.shields.io/badge/NVIDIA_Community_Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Community" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/GEAR-Intro_to_Agents-FBBC05?style=for-the-badge&logo=googlecloud&logoColor=black" alt="GEAR Intro to Agents" />
+    <img src="https://img.shields.io/badge/GEAR_Intro_to_Agents-FBBC05?style=for-the-badge&logo=googlecloud&logoColor=black" alt="GEAR Intro to Agents" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/GEAR-Production_Ready_Agents-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GEAR Building Production-Ready" />
+    <img src="https://img.shields.io/badge/GEAR_Production_Ready-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GEAR Production Ready" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/Arcade-GEAR-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Arcade GEAR" />
+    <img src="https://img.shields.io/badge/Arcade_GEAR-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Arcade GEAR" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini-Enterprise_Agent_Ready-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Enterprise Agent Ready" />
+    <img src="https://img.shields.io/badge/Gemini_Enterprise_Agent-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Enterprise Agent Ready" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills" />
+    <img src="https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills" />
   </a>
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
-    <img src="https://img.shields.io/badge/Android_SDK-Platform_Tools-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK Platform Tools" />
+    <img src="https://img.shields.io/badge/Android_SDK_Platform_Tools-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK Platform Tools" />
   </a>
 </p>
 
