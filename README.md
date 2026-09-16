@@ -1,4 +1,4 @@
-#About Me:
+About Me:
 Just a full-stack developer who loves building clean, interactive web apps and spends the rest of the time sleeping. Most of the hard bugs actually get solved while I'm asleep<br><br>
 <p align="left">
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
