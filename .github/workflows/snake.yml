@@ -13,14 +13,16 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: Vincent-Gournay/pacman-contribution-graph@v1.0.0
+      - name: Generate Pacman game
+        uses: abozanona/pacman-contribution-graph@v1.1.1
         with:
           github_user_name: Adlianto
-          output: dist/pacman.svg
           
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push Pacman SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
