@@ -2,9 +2,9 @@
 Just a full-stack developer who loves building clean, interactive web apps and spends the rest of the time sleeping. Most of the hard bugs actually get solved while I'm asleep.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adlianto/Adlianto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adlianto/Adlianto/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adlianto/Adlianto/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adlianto/Adlianto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adlianto/Adlianto/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Adlianto/Adlianto/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="left">
