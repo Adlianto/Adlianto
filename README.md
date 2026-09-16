@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8803a5a6-063d-449c-bb1d-c891b049da36" /># 💫 About Me:
+About Me:
 Just a full-stack developer who loves building clean, interactive web apps and spends the rest of the time sleeping. Most of the hard bugs actually get solved while I'm asleep<br><br>
 <p align="left">
   <a href="https://me.developers.google.com/u/109232413683215218634" target="_blank">
